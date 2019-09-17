@@ -1,0 +1,21 @@
+{
+  "name": "agencia-lead-digital",
+  "homepage": "https://github.com/lu045/agencia-lead-digital-aguarde",
+  "authors": [
+    "Luis Fernando <serraluisfernando@gmail.com>"
+  ],
+  "description": "agencia de markeiting digital",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
